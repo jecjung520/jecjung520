@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @jecjung520
-- 👀 I’m interested in AI related topics
-- 🌱 I’m currently learning Machine Learning and Deep Learning algorithms
-- 💞️ I’m looking to collaborate on projects related to Machine Learning and Deep Learning using Scikit-Learn/TensorFlow
-- 📫 How to reach me - jecjung520@gmail.com
+- I mainly code in C/C++
 
 <!---
 jecjung520/jecjung520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
