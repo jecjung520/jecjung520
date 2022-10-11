@@ -1,6 +1,6 @@
 :computer: **Eunchong Jung - Jec** :computer:
 
-<a href="https://gmail.com/@seondal"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Blogger&logoColor=black"/></a>
+<a href="https://gmail.com/@jecjung520"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Blogger&logoColor=black"/></a>
 <br></br>
 :page_with_curl: **Currently Studying** :page_with_curl:
 
