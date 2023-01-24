@@ -1,7 +1,7 @@
 :computer: **Eunchong Jung - Jec** :computer:
 
 email: jecjung520@gmail.com<br></br>
-phone: +852 9491 1853 &nbsp;&nbsp; :kr: <br></br> 
+phone: +852 5336 4404 &nbsp;&nbsp; :kr: <br></br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +82 010 9121 3360 &nbsp;&nbsp; 🇭🇰
 <br></br><br></br>
 :page_with_curl: **Currently Studying** :page_with_curl:
