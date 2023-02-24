@@ -1,4 +1,8 @@
 <div align=center>
+	<h2> Jec's Github </h2
+</div>
+
+<div align=center>
   <h3> 💻 Tech Stack 💻 </h3>
   <p> 🖱️ Programming Language 🖱️ </p>
 </div>
@@ -45,8 +49,7 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=jecjung520&show_icons=true">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/jecjung520?theme=light&font=Uchen)
+
 </div>
 
 <!---
