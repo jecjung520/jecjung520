@@ -1,9 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Jec's%20Github!&fontSize=90" />	
-</div>
-
-<div align=center>
-  <h2> 💻 Tech Stack 💻 </h2>
+  <h3> 💻 Tech Stack 💻 </h3>
   <p> 🖱️ Programming Language 🖱️ </p>
 </div>
 <div align=center>
